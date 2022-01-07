@@ -1,0 +1,12 @@
+.mainwrapper{
+    height: 100vh;
+    box-sizing: border-box;
+    display:  flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-top: 1.5rem;
+    align-items: center;
+    text-align: center;
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(0, 104, 43));
+}
+
