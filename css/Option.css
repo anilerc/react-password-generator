@@ -1,0 +1,15 @@
+.opt-option{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-family: Abel;
+    font-size: 1.3rem;
+    margin: 1.3rem;
+    padding: 0.4rem;
+    border-radius: 17px;
+    border: 0.1rem solid white;
+}
+
+.opt-clicked{
+    background-color: green;
+    color: white;
+    box-shadow: rgba(0, 126, 21, 0.35) 2px 5px 15px;
+}

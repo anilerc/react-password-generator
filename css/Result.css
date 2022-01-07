@@ -1,0 +1,10 @@
+.result-txt{
+    font-size: 4.5rem;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border-bottom: 4px solid black;
+    border-right: 4px dashed black;
+    border-top: 4px dotted black;
+    border-left: 4px double black;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}

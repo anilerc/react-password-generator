@@ -1,0 +1,12 @@
+.fetch-btn{
+    margin-top: 2rem;
+    font-size: 2rem;
+    padding: 8px;
+    border-radius: 18px;
+    border: none;
+    border-top: 3px solid rgb(0, 124, 87);
+    background-color: #efefef;
+    border-bottom: 3px solid rgb(0, 124, 87);
+    margin-bottom: 15vh;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
